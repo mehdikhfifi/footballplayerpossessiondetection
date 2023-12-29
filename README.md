@@ -14,13 +14,9 @@ If you have any inquiries, feel free to reach out to me, I'm more than open to c
 
 
 
-https://github.com/mehdikhfifi/footballplayerpossessiondetection/assets/145874140/03174f31-5ffb-4860-ba76-590eadf898d4
 
 
 
-https://github.com/mehdikhfifi/footballplayerpossessiondetection/assets/145874140/cb64a9cb-5373-4a0e-a80f-774b4463eccd
+https://github.com/mehdikhfifi/footballplayerpossessiondetection/assets/145874140/6bf001ae-1f23-4819-93f3-5ac5739dab3b
 
-
-
-https://github.com/mehdikhfifi/footballplayerpossessiondetection/assets/145874140/38ec89b6-2cbc-4378-aafb-7e7601cf45aa
 
