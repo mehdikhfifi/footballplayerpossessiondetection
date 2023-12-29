@@ -1,4 +1,4 @@
-****This is a possession meter for soccer/football games. ****
+**This is a possession meter for soccer/football games.**
 
 Possession in football is defined as the fraction of game time in which a team has control of the ball. This is a major indicator of team strength and strategy in football analytics, and is hence a very important metric to be measured. Some analysts measure time elapsed whlst a team has the ball, and others prefer measuring number of passes as an indicator of posession, but either methodologies work just fine. In this notebook, timee is utilized as passing is a bit to easy to implement. 
 
