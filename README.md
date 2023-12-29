@@ -11,4 +11,8 @@ Model is far from perfect as it largely depends on the disparity of colors betwe
 
 If you have any inquiries, feel free to reach out to me, I'm more than open to critique.
 
-https://github.com/mehdikhfifi/footballplayerpossessiondetection/assets/145874140/aba0f98a-8607-46a8-8bee-fecd1f8127ca
+
+
+
+https://github.com/mehdikhfifi/footballplayerpossessiondetection/assets/145874140/03174f31-5ffb-4860-ba76-590eadf898d4
+
